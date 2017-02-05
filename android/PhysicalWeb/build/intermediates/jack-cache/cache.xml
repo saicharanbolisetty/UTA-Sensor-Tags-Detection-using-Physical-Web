@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\physical-web-master\android\PhysicalWeb\app\libs\libs.jar"
+        revision="24.0.1"
+        sha1="d24b56ce2eebd4f78c88cf888a0b06c62b0eff47">
+        <dex dex="E:\physical-web-master\android\PhysicalWeb\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\libs-7060634476e7a1054da4d4ca1b499fea4bbb9242.jar" />
+    </item>
+    <item
+        jar="D:\Users\venkatsaicharan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        revision="24.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="E:\physical-web-master\android\PhysicalWeb\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\support-annotations-24.0.0-b0f4fe117825ecaded83d8efb21543d3e327bbe9.jar" />
+    </item>
+    <item
+        jar="E:\physical-web-master\android\PhysicalWeb\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        revision="24.0.1"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="E:\physical-web-master\android\PhysicalWeb\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-b014df7e6806e4dab3cd01e652d583b59ed21682.jar" />
+    </item>
+    <item
+        jar="C:\Users\venkatsaicharan\.gradle\caches\modules-2\files-2.1\org.nanohttpd\nanohttpd\2.3.0\d80c992698584d6252a39a6babf916dda06769f4\nanohttpd-2.3.0.jar"
+        revision="24.0.1"
+        sha1="d80c992698584d6252a39a6babf916dda06769f4">
+        <dex dex="E:\physical-web-master\android\PhysicalWeb\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\nanohttpd-2.3.0-2527f641ada5375f7ce6009b61dad6e1234458d6.jar" />
+    </item>
+    <item
+        jar="E:\physical-web-master\android\PhysicalWeb\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        revision="24.0.1"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="E:\physical-web-master\android\PhysicalWeb\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-541a7908fc1f165caab069754121dce6f8a0d115.jar" />
+    </item>
+    <item
+        jar="E:\physical-web-master\android\PhysicalWeb\app\build\intermediates\exploded-aar\com.android.volley\volley\jars\classes.jar"
+        revision="24.0.1"
+        sha1="2ef3d2dfdda0d90c16104d281731dccfffcea7f3">
+        <dex dex="E:\physical-web-master\android\PhysicalWeb\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-5fc974e49136fcb6932c3af41b621bfff77e6edc.jar" />
+    </item>
+    <item
+        jar="C:\Users\venkatsaicharan\.gradle\caches\modules-2\files-2.1\com.youview\tinydnssd\1.2.7\b7cc93d2aa1f4c0e83b44f32fb2ce9eca51141f8\tinydnssd-1.2.7.jar"
+        revision="24.0.1"
+        sha1="b7cc93d2aa1f4c0e83b44f32fb2ce9eca51141f8">
+        <dex dex="E:\physical-web-master\android\PhysicalWeb\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\tinydnssd-1.2.7-bafb714a905d97abe4f3b51ef49262a63dece40e.jar" />
+    </item>
+    <item
+        jar="E:\physical-web-master\android\PhysicalWeb\app\build\intermediates\exploded-aar\org.uribeacon\uribeacon-library-release\jars\classes.jar"
+        revision="24.0.1"
+        sha1="139ac6a4734908b841e816a63a55da7100e81c97">
+        <dex dex="E:\physical-web-master\android\PhysicalWeb\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-6830f8fcb1caeb854c4fddff83bd46060361557e.jar" />
+    </item>
+    <item
+        jar="E:\physical-web-master\android\PhysicalWeb\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        revision="24.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="E:\physical-web-master\android\PhysicalWeb\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\internal_impl-24.0.0-57830f122756158de9f2e0043ec39b539cf04ce0.jar" />
+    </item>
+    <item
+        jar="E:\physical-web-master\android\PhysicalWeb\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        revision="24.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="E:\physical-web-master\android\PhysicalWeb\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-9936868c516bc8b3f95535ec960a17785cb24c95.jar" />
+    </item>
+    <item
+        jar="E:\physical-web-master\android\PhysicalWeb\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        revision="24.0.1"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="E:\physical-web-master\android\PhysicalWeb\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-e4de85e14dff747b1b8038b364b5936ef17ff4ed.jar" />
+    </item>
+
+</items>
